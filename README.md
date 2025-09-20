@@ -31,14 +31,6 @@
 
 ---
 
-## 🔭 Featured Projects:
-- 📝 **task_list_laravel** — a task management application.  
-- 🎟 **api_laravel_event_managment** — an API for event management.  
-- 📊 **livewire_poll** — a voting system built with Laravel + Livewire.  
-- 💼 **job-board-laravel** — a job board application.  
-
----
-
 ## ✍️ Quote of the Day:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
